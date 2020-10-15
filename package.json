@@ -2,7 +2,7 @@
   "name": "ali",
   "version": "0.1.0",
   "private": true,
-  "homepages":" https://jiangxin-max.github.io/ali",
+  "homepage":" https://jiangxin-max.github.io/ali",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
