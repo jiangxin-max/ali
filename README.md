@@ -1,3 +1,4 @@
+## 该项目使用react的CRA框架搭建结构
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
