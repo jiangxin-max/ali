@@ -1,8 +1,8 @@
 import React from 'react'
-import Top from './pages/Top';
-import Main from './pages/main';
-import MainBar from './pages/mainBar';
-import IndexBottom from './pages/bottom';
+import Top from './components/Top';
+import Main from './components/main';
+import MainBar from './components/mainBar';
+import IndexBottom from './components/bottom';
 export default function App () {
 
   return (<div>
